@@ -1,0 +1,1 @@
+Primeira condição, é se um dos interruptores seja da sala atual, já deixo marcado ela e ligo apenas mais uma para descobrir qual das outras salas define a lâmpada que liguei, a partir daí já consigo definir os intererruptores de cada lâmpada.
